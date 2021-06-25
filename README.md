@@ -6,7 +6,6 @@ This command line Python script uses a breadth-first approach. The target url by
 
 Note you need to install the dependencies in `requirements.txt`:
 
-**requests:**
 ```
 pip install -r requirements.txt
 ```
